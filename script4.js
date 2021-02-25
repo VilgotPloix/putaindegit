@@ -49,6 +49,8 @@ for (let index in entrepreneurs){
 let list = entrepreneurs[index].last
 lastname.push(list)}
 
+
+
 lastname.sort()
 
 console.log(lastname)
