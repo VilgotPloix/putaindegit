@@ -56,6 +56,5 @@ function decrypt (decode){
     console.log (`ARN à decoder : ${decode}, en ${arrProtein.join('-')}`)
 }
 
-decrypt("UUACGCAGUAGA");
 decrypt("CCGUCGUUGCGCUACAGC");
 decrypt("CCUCGCCGGUACUUCUCG");
